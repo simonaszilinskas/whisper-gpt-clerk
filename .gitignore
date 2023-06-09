@@ -1,0 +1,6 @@
+uploads/*
+env/
+.DS_Store
+keys.env
+templates/
+?app.py
